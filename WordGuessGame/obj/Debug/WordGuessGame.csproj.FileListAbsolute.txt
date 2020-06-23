@@ -1,0 +1,7 @@
+C:\Users\Yamac\source\repos\WordGuessGame\WordGuessGame\bin\Debug\WordGuessGame.exe.config
+C:\Users\Yamac\source\repos\WordGuessGame\WordGuessGame\bin\Debug\WordGuessGame.exe
+C:\Users\Yamac\source\repos\WordGuessGame\WordGuessGame\bin\Debug\WordGuessGame.pdb
+C:\Users\Yamac\source\repos\WordGuessGame\WordGuessGame\obj\Debug\WordGuessGame.csprojAssemblyReference.cache
+C:\Users\Yamac\source\repos\WordGuessGame\WordGuessGame\obj\Debug\WordGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Yamac\source\repos\WordGuessGame\WordGuessGame\obj\Debug\WordGuessGame.exe
+C:\Users\Yamac\source\repos\WordGuessGame\WordGuessGame\obj\Debug\WordGuessGame.pdb
